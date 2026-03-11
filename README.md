@@ -1,4 +1,4 @@
-# Web Development Project 1 - HyperCar Board
+# Web Development Project 1 - *HyperCar Board*
 
 Submitted by: **Fabian Roman**
 
@@ -30,10 +30,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/a/7JeCnVF
+![Walkthrough](https://github.com/SwellEquation/Hypercar-Board/blob/main/hypercarpage.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with imgur  
+GIF created with https://www.freeconvert.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
